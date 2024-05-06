@@ -59,7 +59,7 @@ input::placeholder {
 }
 
 .search-control {
-  background-color: #E7E8EB;
+  background-color: #F6F6F6;
   border: 1px solid #fff;
   width: fit-content;
   border-radius: 15px;
@@ -344,7 +344,7 @@ input::placeholder {
   width: 45px;
   height: 45px;
   border: 1px solid #fff;
-  background-color: #E7E8EB;
+  background-color: #F6F6F6;
   transition: all 0.3s;
   border-radius: 15px;
 }
@@ -1471,7 +1471,7 @@ form select.error:focus {
 }
 
 .tableStriped tbody tr:nth-of-type(odd) td {
-  background-color: #E7E8EB !important;
+  background-color: #F6F6F6 !important;
   /* border-radius: 10px; */
 
   /* Your custom color */
@@ -1799,4 +1799,50 @@ tr {
   border-radius: 10px;
   height: 150px;
   width: 150px;
+}
+
+.mainImage {
+  border-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+
+}
+
+.fss3 {
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 500;
+  font-style: italic;
+  text-align: left;
+  color: #6b6b6b;
+}
+
+.fss2 {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  text-align: left;
+  color: #000000;
+}
+
+.job {
+  border-radius: 15px;
+  padding-inline: 0.2rem;
+  padding-block: 0.1rem;
+
+  background: #6b6b6b;
+  font-family: "Montserrat";
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 28px;
+  font-style: italic;
+  text-align: left;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
