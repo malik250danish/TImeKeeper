@@ -1845,4 +1845,6 @@ tr {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 55px;
+  height: 25px;
 }
