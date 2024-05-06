@@ -1655,6 +1655,15 @@ tr {
   color: #1589FF;
 }
 
+.eye2 {
+  position: absolute;
+  right: 30px;
+  top: 60%;
+  cursor: pointer;
+  color: #1589FF;
+}
+
+
 .formInp {
   border-radius: 15px;
 
@@ -1781,4 +1790,13 @@ tr {
   font-style: normal;
   text-align: left;
   color: #000000;
+}
+
+.profileImg {
+  border-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  height: 150px;
+  width: 150px;
 }
